@@ -1,0 +1,13 @@
+{
+  "name": "redenkes-components",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "start": "set PORT=9001 && set SECONDARY_PORT=9002 && adalo dev --port 9001 --secondary-port 9002",
+    "login": "adalo login",
+    "publish": "adalo publish"
+  }
+}

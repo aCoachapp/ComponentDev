@@ -1,0 +1,12 @@
+{
+  "displayName": "aCoach Components",
+  "components": [
+    {
+      "name": "LineGraph",
+      "manifest": "./src/components/LineGraph/manifest.json"
+    }
+  ],
+  "author": "",
+  "description": "",
+  "logo": "./example-logo.png"
+}
